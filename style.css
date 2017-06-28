@@ -1,3 +1,10 @@
+.header{
+  background-image: url("http://www.sifi.se/wp-content/uploads/2010/12/Chileskog-arbetare-531x240.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+
 h1 {
   color: red;
   font-family: Arial;

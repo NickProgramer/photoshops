@@ -1,5 +1,5 @@
 .header{
-  background-image: url("http://www.sifi.se/wp-content/uploads/2010/12/Chileskog-arbetare-531x240.jpg");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-5/htmlcss1-img_canyon.jpeg");
   background-position: center center;
   background-size: cover;
 }
@@ -9,7 +9,7 @@ h1 {
   color: red;
   font-family: Arial;
   text-align: center;
-  font-size: 78px;
+  font-size: 100px;
 }
 
 h2 {
